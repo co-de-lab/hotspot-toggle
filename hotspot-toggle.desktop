@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Hotspot umschalten
+Comment=WLAN-Hotspot an/aus + Docker-iptables setzen
+Exec=/bin/sh -c "~/.local/bin/hotspot-toggle"
+Icon=network-wireless-hotspot
+Terminal=false
+Categories=Network;
